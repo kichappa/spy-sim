@@ -1,5 +1,5 @@
-# Artificial Life Simulator - CSE6730 Project Repository
-Welcome to the "Artificial Life Simulator" project repository for CSE6730. This repository serves as the central hub for our project, where we explore the fascinating world of artificial life and simulation.
+# Spying Simulator - CSE6730 Project Repository
+Welcome to the "Spying Simulator" project repository for CSE6730. This repository serves as the central hub for our project, where we explore the fascinating world of spying and concealment simulation.
 
 ## Authors:
 Atharva Mangesh Bhalerao;
